@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.InputProcessor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Input.Keys"/>
+<fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator.FreeTypeFontParameter"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.files.FileHandle"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.GlyphLayout"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Color"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Notes.HiHat"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Notes.Snare"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Notes.Ride"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.audio.Sound"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Boot"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Notes.Crash"/>
+</qualifiedTypeNameHistroy>
